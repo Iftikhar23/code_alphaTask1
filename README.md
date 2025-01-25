@@ -1,4 +1,4 @@
 # code_alphaTask1
-Portfloio Website.
-This website is containing five section Home, About, Services, Projects, Contact me.
+Portfolio Website.
+This website is containing five sections Home, About, Services, Projects, Contact me.
 This website showcase my experience which I have done so far.
